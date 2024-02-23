@@ -1,0 +1,15 @@
+{
+    "name": "guzzlehttp/guzzle",
+    "autoload": {
+        "psr-4": {
+            "Guzzlehttp\\Guzzle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rianfauzan",
+            "email": "rianfauzan7@gmail.com"
+        }
+    ],
+    "require": {}
+}
